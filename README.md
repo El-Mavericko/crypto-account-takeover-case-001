@@ -1,5 +1,5 @@
 # crypto-account-takeover-case-001
-# 🧠 Case Study: High-Value Crypto Account Takeover via Coinbase Impersonation (2024)
+# 🧠 Case Study: High-Value Crypto Account Takeover via Coinbase Impersonation (2025)
 
 This case study documents a real-world crypto scam involving multi-stage social engineering, impersonation of major crypto platforms, and account takeover resulting in significant financial loss. This case is reconstructed for **educational purposes** and reflects **patterns observed** across multiple threat investigations in the crypto sector.
 
